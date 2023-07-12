@@ -7,4 +7,4 @@ This is a repo demostrate the fork in clone workflow
 - Chocolate
 - Vanilaa
 
-steve's favourite ice cream is Kesari
+steve's favourite ice cream is Kesari and Chocolate
